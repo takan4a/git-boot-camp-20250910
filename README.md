@@ -1,2 +1,2 @@
 # git-boot-camp-20250910
-演習
+issuesと紐づける
